@@ -1,0 +1,58 @@
+[
+
+    {
+    "customerName": "Juan Pérez",
+    "customerEmail": "juanito123456@example.com",
+    "productDescription": "Laptop Dell XPS 15",
+    "quantity": 1,
+    "totalPrice": 1299.99,
+    "status": "PENDING",
+    "createdAt": "2025-10-16T20:09:59.8882989"
+},
+	
+  {
+    "customerName": "Carlos Méndez",
+    "customerEmail": "c.mendez@email.com",
+    "productDescription": "Smartphone Samsung Galaxy S23",
+    "quantity": 2,
+    "totalPrice": 1799.00,
+    "status": "SHIPPED",
+    "createdAt": "2025-10-15T10:30:00.0000000"
+  },
+  {
+    "customerName": "Sofia Pérez",
+    "customerEmail": "s.perez@dominio.net",
+    "productDescription": "Auriculares Sony WH-1000XM5",
+    "quantity": 1,
+    "totalPrice": 349.99,
+    "status": "PENDING",
+    "createdAt": "2025-10-16T08:15:30.5000000"
+  },
+  {
+    "customerName": "Juan Rivas",
+    "customerEmail": "rivas.j@mail.co",
+    "productDescription": "Tableta gráfica Wacom Intuos Pro",
+    "quantity": 1,
+    "totalPrice": 425.50,
+    "status": "CANCELLED",
+    "createdAt": "2025-10-14T15:45:10.2000000"
+  },
+  {
+    "customerName": "Emily Chen",
+    "customerEmail": "emilyc@work.org",
+    "productDescription": "Impresora Multifuncional HP",
+    "quantity": 3,
+    "totalPrice": 599.97,
+    "status": "DELIVERED",
+    "createdAt": "2025-10-13T22:01:05.1000000"
+  },
+  {
+    "customerName": "Ahmed Khan",
+    "customerEmail": "a.khan@personal.ae",
+    "productDescription": "Monitor Curvo LG UltraGear",
+    "quantity": 1,
+    "totalPrice": 450.00,
+    "status": "PENDING",
+    "createdAt": "2025-10-16T21:05:40.9000000"
+  }
+]
