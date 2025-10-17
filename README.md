@@ -19,6 +19,6 @@ Developed using **Spring Boot**, **Spring Data JPA**, and **Gradle** as the buil
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 I used Java version 17. Create a Project using Grindl. And an Visual Studio Code extension called Spring Boot Dashboard so I can execute the project. 
