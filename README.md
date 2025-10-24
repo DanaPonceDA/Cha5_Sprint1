@@ -87,3 +87,12 @@ I used Java version 17. Create a Project using Grindl. And an Visual Studio Code
 4. Responses are returned in JSON format.  
 5. Swagger UI documents and allows real-time testing of endpoints.  
 6. Unit and integration tests ensure stability across environments.  
+
+
+## Dependencies used
+
+- **Spring Boot Starter Web:** For building RESTful APIs  
+- **Spring Boot Starter Data JPA:** For database access  
+- **H2 Database:** In-memory database for development  
+- **Spring Boot Starter Test:** For unit and integration testing  
+- **Lombok:** To reduce boilerplate code (getters, setters, constructors) 
